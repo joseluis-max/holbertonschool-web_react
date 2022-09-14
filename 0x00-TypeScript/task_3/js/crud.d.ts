@@ -1,1 +1,1 @@
-import { RowId, RowElement } from '../interface';
+import { RowId, RowElement } from './interface';
