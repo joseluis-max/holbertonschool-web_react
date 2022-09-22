@@ -1,0 +1,36 @@
+* {
+    font-family: 'Calibri';
+}
+
+:root {
+    --primary-color: #e0354b;
+}
+
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    max-height: 200px;
+}
+
+.App-header {
+    display: flex;
+    align-items: center;
+}
+
+.App-header h1 {
+    color: var(--primary-color);
+}
+
+.App-body {
+    padding: 0 5%;
+    min-height: 60vh;
+    border: 3px solid var(--primary-color);
+    border-left: none;
+    border-right: none;
+}
+
+.App-body p {
+    text-align: left;
+}
