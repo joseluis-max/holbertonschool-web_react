@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  min-width: 90%;
+}
+
+body p:last-of-type {
+  order: 3;
+}
+
+#logo {
+  background: url('../assets/Holberton-logo.jpg');
+  background-size: 200px 200px;
+  width: 200px;
+  height: 200px;
+}
+
+#click-here {
+  max-width: 30%;
+  order: 2;
+}
+
+#count {
+  font-weight: bold;
+  min-width: 20%;
+  max-width: 60%;
+  order: 1;
+}
