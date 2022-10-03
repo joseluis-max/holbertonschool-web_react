@@ -1,0 +1,11 @@
+* {
+    font-family: 'Calibri';
+}
+
+:root {
+    --primary-color: #e0354b;
+}
+
+.App {
+    text-align: center;
+}

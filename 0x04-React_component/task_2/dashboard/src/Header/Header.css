@@ -1,0 +1,12 @@
+.App-header {
+  display: flex;
+  align-items: center;
+}
+
+.App-logo {
+  max-height: 200px;
+}
+
+.App-header h1 {
+  color: var(--primary-color); /* :root */
+}
