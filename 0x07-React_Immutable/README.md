@@ -1,1 +1,1 @@
-# React Inmutable
+# React Immutable
